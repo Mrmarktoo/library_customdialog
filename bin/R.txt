@@ -1,4 +1,5 @@
-int drawable ic_launcher 0x7f020000
+int drawable custombackground 0x7f020000
+int drawable ic_launcher 0x7f020001
 int id alertlayout_bottom 0x7f060005
 int id alertlayout_bottom_confirm 0x7f060007
 int id alertlayout_bottom_refuse 0x7f060006
